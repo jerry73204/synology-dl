@@ -8,3 +8,6 @@
 # Python cache
 __pycache__/
 *.py[oc]
+
+# Added by cargo
+/target
