@@ -3,6 +3,13 @@ name = "synology-dl"
 version = "0.1.0"
 edition = "2021"
 description = "Synology Drive public link downloader"
+license = "MIT"
+repository = "https://github.com/jerry73204/synology-dl"
+homepage = "https://github.com/jerry73204/synology-dl"
+keywords = ["synology", "download", "nas", "cli"]
+categories = ["command-line-utilities"]
+readme = "README.md"
+authors = ["Hsiang-Jui Lin"]
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
